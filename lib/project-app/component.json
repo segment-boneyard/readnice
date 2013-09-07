@@ -1,0 +1,12 @@
+{
+  "name": "project-app",
+  "dependencies": {
+    "ianstormtaylor/markdown-menu": "*",
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}
