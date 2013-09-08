@@ -14,14 +14,14 @@
     var GithubRepo = require('github-repo');
     var project = new GithubRepo('segmentio/view');
 
-    project.get('Readme.md', function(err, content){
+    project.readme(function(err, content){
       console.log(content);
     });
 
 Or quicker:
 
   var repo = require('github-repo');
-  repo('segmentio/view').get('Readme.md', function(err, content){
+  repo('segmentio/view').readme(function(err, content){
 
   });
 
