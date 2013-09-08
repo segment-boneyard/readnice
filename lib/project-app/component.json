@@ -1,12 +1,14 @@
 {
   "name": "project-app",
   "dependencies": {
-    "ianstormtaylor/markdown-menu": "*",
+    "anthonyshort/github-repo": "*",
+    "chjj/marked": "*",
+    "component/domify": "*",
+    "component/emitter": "*",
+    "component/reactive": "*",
+    "ianstormtaylor/loading": "*",
+    "ianstormtaylor/markdown-menu": "*"
   },
-  "scripts": [
-    "index.js"
-  ],
-  "styles": [
-    "index.css"
-  ]
+  "scripts": ["index.js"],
+  "templates": ["index.html"]
 }
