@@ -2,6 +2,7 @@
   "name": "markdown-menu",
   "dependencies": {
     "chjj/marked": "*",
+    "component/domify": "*",
     "component/each": "*",
     "segmentio/menu": "*"
   },

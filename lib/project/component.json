@@ -3,6 +3,7 @@
   "dependencies": {
     "chjj/marked": "*",
     "component/domify": "*",
+    "component/each": "*",
     "component/emitter": "*",
     "component/reactive": "*",
     "ianstormtaylor/loading": "*"
