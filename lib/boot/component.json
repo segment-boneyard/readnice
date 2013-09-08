@@ -1,0 +1,13 @@
+{
+  "name": "boot",
+  "dependencies": {
+    "ianstormtaylor/router": "*"
+  },
+  "local": [
+    "project"
+  ],
+  "scripts": [
+    "browser.js"
+  ],
+  "main": "browser.js"
+}

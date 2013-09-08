@@ -1,7 +1,6 @@
 {
   "name": "project-app",
   "dependencies": {
-    "anthonyshort/github-repo": "*",
     "chjj/marked": "*",
     "component/domify": "*",
     "component/emitter": "*",
@@ -9,6 +8,9 @@
     "ianstormtaylor/loading": "*",
     "ianstormtaylor/markdown-menu": "*"
   },
+  "local": [
+    "github-repo"
+  ],
   "scripts": ["index.js"],
   "templates": ["index.html"]
 }
