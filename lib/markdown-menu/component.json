@@ -1,5 +1,10 @@
 {
   "name": "markdown-menu",
+  "dependencies": {
+    "chjj/marked": "*",
+    "component/each": "*",
+    "segmentio/menu": "*"
+  },
   "scripts": [
     "index.js"
   ]
