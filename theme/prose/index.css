@@ -1,0 +1,8 @@
+/**
+ * Links, by default, use the color
+ * of the text around them rather than
+ * defaulting to blue
+ */
+a {
+  color: inherit;
+}

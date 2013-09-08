@@ -1,0 +1,5 @@
+{
+  "name": "prose",
+  "description": "Good typography by default",
+  "styles": ["index.css"]
+}

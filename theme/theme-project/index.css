@@ -1,0 +1,13 @@
+.project {
+  position: relative;
+}
+
+.project-menu {
+  position: fixed;
+  top: 100px;
+}
+
+.project-readme {
+  width: 600px;
+  margin: 0 auto;
+}
