@@ -1,0 +1,19 @@
+{
+  "name": "github-repo",
+  "repo": "segmentio/github-repo",
+  "description": "Fetch files from Github repos",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "learnboost/jsonp": "*",
+    "ForbesLindesay/base64-decode": "*"
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
