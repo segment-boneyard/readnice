@@ -10,7 +10,7 @@
   },
   "local": [
     "github-repo",
-    "markdown-menu"
+    "map-element"
   ],
   "scripts": ["index.js"],
   "templates": ["index.html"]

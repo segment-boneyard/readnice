@@ -1,0 +1,7 @@
+{
+  "name": "map-element",
+  "dependencies": {
+    "ianstormtaylor/map": "*"
+  },
+  "scripts": ["index.js"]
+}
