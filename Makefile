@@ -11,4 +11,7 @@ clean:
 test: build
 	open test/index.html
 
+server: build
+	npm start
+
 .PHONY: clean test
