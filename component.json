@@ -1,7 +1,5 @@
 {
   "name": "readnice",
   "paths": [".", "lib"],
-  "local": ["boot"],
-  "scripts": ["browser.js"],
-  "main": "browser.js"
+  "local": ["boot"]
 }

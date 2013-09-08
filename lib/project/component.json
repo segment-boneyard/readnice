@@ -5,11 +5,11 @@
     "component/domify": "*",
     "component/emitter": "*",
     "component/reactive": "*",
-    "ianstormtaylor/loading": "*",
-    "ianstormtaylor/markdown-menu": "*"
+    "ianstormtaylor/loading": "*"
   },
   "local": [
-    "github-repo"
+    "github-repo",
+    "markdown-menu"
   ],
   "scripts": ["index.js"],
   "templates": ["index.html"]
