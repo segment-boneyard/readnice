@@ -14,4 +14,4 @@ test: build
 server: build
 	npm start
 
-.PHONY: clean test
+.PHONY: build clean test
