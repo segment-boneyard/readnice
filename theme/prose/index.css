@@ -6,3 +6,12 @@
 a {
   color: inherit;
 }
+
+
+/**
+ * Spacing between elements (paragraphs, blockquotes, etc).
+ */
+
+.prose > * + * {
+  margin-top: 1em;
+}

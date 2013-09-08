@@ -1,13 +1,13 @@
+
+/**
+ * Project.
+ *
+ * .project
+ *   .project-menu
+ *   .project-readme
+ *   .project-github-link
+ */
+
 .project {
   position: relative;
-}
-
-.project-menu {
-  position: fixed;
-  top: 100px;
-}
-
-.project-readme {
-  width: 600px;
-  margin: 0 auto;
 }

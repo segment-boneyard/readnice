@@ -1,8 +1,13 @@
 {
   "name": "theme-boot",
-  "local": ["theme-project", "prose"],
-  "styles": ["index.css"],
   "dependencies": {
-    "necolas/normalize.css": "*"
-  }
+    "ianstormtaylor/reset": "*"
+  },
+  "local": [
+    "theme-project",
+    "theme-project-menu",
+    "theme-project-readme",
+    "prose"
+  ],
+  "styles": ["index.css"]
 }

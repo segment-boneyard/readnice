@@ -1,0 +1,39 @@
+
+/**
+ * Project menu.
+ *
+ * .project-menu
+ *   .project-menu-item.project-menu-item-[h2|h3]
+ *     .project-menu-item-link
+ */
+
+.project-menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 5em 0 0 2em;
+}
+
+.project-menu-item {
+  position: relative;
+}
+
+.project-menu-item-link {
+  padding: .5em 0;
+}
+
+.project-menu-item-h2 {
+  font-weight: bold;
+}
+
+.project-menu-item-h3 {
+  padding-left: .5em;
+}
+
+.project-menu-item + .project-menu-item-h3 {
+  margin-top: .25em;
+}
+
+.project-menu-item + .project-menu-item-h2 {
+  margin-top: .75em;
+}
