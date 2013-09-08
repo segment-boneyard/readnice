@@ -6,7 +6,8 @@
     "component/each": "*",
     "component/emitter": "*",
     "component/reactive": "*",
-    "ianstormtaylor/loading": "*"
+    "ianstormtaylor/loading": "*",
+    "segmentio/rainbow": "*"
   },
   "local": [
     "github-repo",
